@@ -13,4 +13,5 @@ Abra o Terminal e digite:
 - "cd<DIRETORIO>"
 - gcc main.c funcoes.c pilha.c arvore binaria.c pilha arvore.c -omain.bin -Wall - pedantic -ansi
 - ./main.bin
-- No windows, você pode rodar via netbeans ou se tiver um terminal batch basta seguir os comandos acima.
+
+No windows, você pode rodar via netbeans ou se tiver um terminal batch basta seguir os comandos acima.
